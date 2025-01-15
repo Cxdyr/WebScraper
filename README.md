@@ -22,12 +22,14 @@ npm -v
 
 ## Cloning and running
 
-You can clone the program using git clone - (depending on cloning method)   
+You can clone the program using git clone - (depending on the cloning method)   
 Then to run the program install the dependencies using
-- npm install
+- ** npm install**
+  
 Run the program using
-- npm start
-Then enter your starting URL: Please enter the starting URL: https://example.com
 
+- **npm start**
+  
+Then enter your starting URL: Please enter the starting URL: https://example.com
 
 The resulting scrapped web pages will be stored in the json file in root directory
