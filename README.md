@@ -24,7 +24,7 @@ npm -v
 
 You can clone the program using git clone - (depending on the cloning method)   
 Then to run the program install the dependencies using
-- ** npm install**
+- **npm install**
   
 Run the program using
 
